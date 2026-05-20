@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Terminal Tabanlı Minecraft Oyunu");
+            Console.WriteLine("NTP final projesi");
+           
 
         }
     }
