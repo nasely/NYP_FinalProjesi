@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HelloHamburger.Business\HelloHamburger.Business.csproj" />
-    <ProjectReference Include="..\HelloHamburger.Entities\HelloHamburger.Entities.csproj" />
   </ItemGroup>
 
 </Project>
