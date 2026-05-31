@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHamburger.Entities", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHamburger.Core", "..\HelloHamburger.Core\HelloHamburger.Core.csproj", "{EE26A5E6-DA26-450E-A954-032EBDC7C911}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloHamburger.Business", "..\HelloHamburger.Business\HelloHamburger.Business.csproj", "{5F6F3A60-50A0-4F74-8A26-BE9745DDFEED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EE26A5E6-DA26-450E-A954-032EBDC7C911}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE26A5E6-DA26-450E-A954-032EBDC7C911}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE26A5E6-DA26-450E-A954-032EBDC7C911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6F3A60-50A0-4F74-8A26-BE9745DDFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6F3A60-50A0-4F74-8A26-BE9745DDFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6F3A60-50A0-4F74-8A26-BE9745DDFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6F3A60-50A0-4F74-8A26-BE9745DDFEED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
